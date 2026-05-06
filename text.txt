@@ -1,0 +1,12 @@
+meter imagens em serviços -
+escolher uma fonte para todos -
+uniformizar o tamanho da fonte -
+colocar o filtro à direita na pagina portefólio e tornar pagina responsiva -
+colocar imagens e texto no portefolio -
+corrigir links no footer em todas as paginas -
+colocar alt nas imagens -
+corrigir butões sem link -
+melhorar conteudo e pagina sobrenos
+pagina servicos tornar pagina e imagens responsivas -
+contact form email da overflow em tele -
+corrigir responsividade da nav bar para tablet -
