@@ -61,7 +61,7 @@ nav {
 .menuButtons {
     flex: 1;
     display: flex;
-    justify-content: center;
+    
 
     /*overflow-x: auto;*/
     white-space: nowrap;
@@ -110,7 +110,7 @@ nav {
     font-weight: bold;
     color: #0f172a;
     
-    text-decoration: none;;
+    text-decoration: none;
 
 }
 
@@ -363,7 +363,7 @@ nav {
     font-weight: bold;
     font-size: 4rem;
     letter-spacing: 1px;
-    overflow-x: hidden;
+    
     
 }
 
@@ -372,7 +372,7 @@ nav {
     font-weight: bold;
     font-size: 1.5rem;
     letter-spacing: 1px;
-    overflow-x: hidden;
+    
 
 }
 
